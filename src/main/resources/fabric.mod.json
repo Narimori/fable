@@ -2,6 +2,8 @@
   "schemaVersion": 1,
   "id": "fable",
   "version": "${version}",
+  "name": "Fable",
+  "description": "Library for creating server-side skills",
   "authors": [
     "Narimori"
   ],
