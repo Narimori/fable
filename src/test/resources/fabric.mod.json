@@ -9,6 +9,8 @@
   "environment": "*",
   "entrypoints": {
     "main": [
+      "org.narimori.fable.channeling.ChannelingTest",
+      "org.narimori.fable.skill.SkillTest"
     ]
   },
   "depends": {
