@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "fable-test",
+  "version": "1.0.0",
+  "authors": [
+    "Narimori"
+  ],
+  "license": "Apache-2.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+    ]
+  },
+  "depends": {
+    "fable": "*"
+  }
+}
